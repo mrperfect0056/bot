@@ -3,7 +3,7 @@ command_not_found_handle() {
 }
 PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[OnlineHacking]\e[0;31m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]────►\e[1;92m'
 clear
-mpv /$HOME/Voice-Welcome/wellcome.mp3
+mpv /$HOME/bot/wellcome.mp3
 clear
 echo -e "Created By \e[5mNibir"
 echo "----------------------------" | lolcat
@@ -22,14 +22,14 @@ echo "
 echo -e "\e[1;93m"
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■□■⊣"
 echo ""
-echo -e "\e[1;93mAuthor ::-https://youtu.be/sMwgtNGkLqs
+echo -e "\e[1;93mAuthor : MD NIBIR
 echo "" 
-echo -e "\e[1;93mGithub ::-https://github.com/mrperfect0056
+echo -e "\e[1;93mGithub :https://github.com/mrperfect0056
 echo ""
-echo -e "\e[1;93mFacebook ::https://Facebook.com/darkhacker07
+echo -e "\e[1;93mFacebook :https://Facebook.com/darkhacker07
 echo ""
-echo -e "\e[1;93mInstagram..::-https://www.instagram.com/devil.0.007/
+echo -e "\e[1;93mYoutube :https://youtube.com/channel/UCXItn4AnlxExhW0virHuD3Q
 echo ""
-echo -e "\e[1;93mTwitter ::-https://twitter.com/Mr__Devil007
+echo -e "\e[1;93mTwitter :https://twitter.com/Mr__Devil007
 date | lolcat
 echo ""
