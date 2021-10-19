@@ -20,6 +20,9 @@ YouTube: <a href="https://youtube.com/channel/UCXItn4AnlxExhW0virHuD3Q
 
 ### ☣️ Installation and Usage Guide
 ```
+$ rm -rf 'Voice-Welcome'
+'''
+'''
 $ apt-get update -y
 ```
 ```
@@ -29,10 +32,10 @@ $ apt-get upgrade -y
 $ pkg install mpv -y
 ```
 ```
-$ git clone https://github.com/mrperfect0056/Cyber-Voice.git
+$ git clone https://github.com/mrperfect0056/bot.git
 ```
 ```
-$ cd Voice-Welcome
+$ cd bot
 ```
 ```
 $ chmod +x *
@@ -44,10 +47,10 @@ Now Type exit & restart Termux
 
 ### Update Tool
 ```
-$ rm -rf 'Voice-Welcome'
+$
 && pkg install mpv -y  
-git clone https://github.com/mrperfect0056/Cyber-Voice.git
-cd Voice-Welcome
+git clone https://github.com/mrperfect0056/bot.git
+cd bot
 chmod +x *
 sh install.sh
 exit
