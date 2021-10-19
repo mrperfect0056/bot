@@ -16,19 +16,15 @@ echo -  ~•~•~•~•~•~•~•~••~•~•~•~•~••~•••~•
        ██║░░██║█████╗░░╚██╗░██╔╝██║██
        ██║░░██║██╔══╝░░░╚████╔╝░██║██
        ██████╔╝███████╗░░╚██╔╝░░██║███████
-echo "
-echo "                  𝕄𝔸𝕄𝕌ℕ
+
+                       𝕄𝔸𝕄𝕌ℕ
 echo -e "\e[1;92m"
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■□■⊣"
 echo ""
-echo -e "\e[1;92mAuthor : MD NIBIR
-echo "" 
-echo -e "\e[1;92mGithub :https://github.com/mrperfect0056
-echo ""
-echo -e "\e[1;92mFacebook :https://Facebook.com/darkhacker07
-echo ""
-echo -e "\e[1;92mYoutube :https://youtube.com/channel/UCXItn4AnlxExhW0virHuD3Q
-echo ""
-echo -e "\e[1;92mTwitter :https://twitter.com/Mr__Devil007
+echo -e "[1;92mAuthor : MD NIBIR
+echo -e "[1;92mGithub :https://github.com/mrperfect0056
+echo -e "[1;92mFacebook :https://Facebook.com/darkhacker07
+echo -e "[1;92mYoutube :https://youtube.com/channel/UCXItn4AnlxExhW0virHuD3Q
+echo -e "[1;92mTwitter :https://twitter.com/Mr__Devil007
 date | lolcat
 echo ""Date
