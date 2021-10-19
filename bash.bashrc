@@ -18,10 +18,10 @@ echo -e "\e[1;92m"
 
                        𝕄𝔸𝕄𝕌ℕ
 |--□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■□■⊣"
-echo -e "[1;92mAuthor : MD NIBIR
-echo -e "[1;92mGithub :https://github.com/mrperfect0056
-echo -e "[1;92mFacebook :https://Facebook.com/darkhacker07
-echo -e "[1;92mYoutube :https://youtube.com/channel/UCXItn4AnlxExhW0virHuD3Q
-echo -e "[1;92mTwitter :https://twitter.com/Mr__Devil007
+\033[1;92m(!)\033[1;92m Author  : DARK-HACKER
+\033[1;92m(!)\033[1;92m Github :https://github.com/mrperfect0056
+\033[1;92m(!)\033[1;92m Facebook :https://Facebook.com/darkhacker07
+\033[1;92m(!)\033[1;92m Youtube :https://youtube.com/channel/UCXItn4AnlxExhW0virHuD3Q
+\033[1;92m(!)\033[1;92m Twitter :https://twitter.com/Mr__Devil007
 date | lolcat
 echo ""Date
